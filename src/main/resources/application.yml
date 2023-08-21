@@ -1,0 +1,9 @@
+jwt:
+  expiration: 700000
+  secret: secret
+private:
+  key:
+    path: /Users/mz01-junghunee/private_key.pem
+public:
+  key:
+    path: /Users/mz01-junghunee/public_key.pem
